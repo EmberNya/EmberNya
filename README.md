@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ember</h1>
 <h3 align="center">I'm music producer and web developer!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=embernya&label=Profile%20views&color=0e75b6&style=flat" alt="embernya" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nimeru&label=Profile%20views&color=0e75b6&style=flat" alt="mimeru" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=embernya" alt="embernya" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nimeru" alt="nimeru" /></a> </p>
 
 - 🔭 My website for music [Nimeru](https://github.com/EmberNya/embersite)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **embernya@outlook.cz**
 
-- ⚡ Fun fact **I hate pigs**
+- ⚡ Fun fact **I'm 20% cooler!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
